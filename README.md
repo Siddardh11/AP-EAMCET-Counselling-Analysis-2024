@@ -1,7 +1,50 @@
-# AP-Eamcet-Analysis-2024
-AP Eamcet Analysis 2024 is a Dashboard made using PowerBI tool. In this dashboard you can easily filter out the colleges based upon the region, and also you can filter based upon the college so by filtering you can easily see how the students are categorized based upon the selection.
+# AP EAMCET Counselling Analysis 2024 – Power BI Dashboard
 
-# How to use this .pbix file?
-**Step - 1** : First download the PowerBI desktop into your PC(only windows) and for Macbook PowerBI desktop is not supported directly, rather you can still work on it by using VMware or you can go for the Parallel software.   
-**Step - 2** : Once after downloading it, you have to login using a business mail.  
-**Step - 3** : After successfully logging in, now download the .pbix into your PC and after that you can simply double tap on it to open.
+## Project Overview
+This project analyzes AP EAMCET Counselling 2024 data to help students, parents, and institutions make informed decisions during the admission process.  
+The dashboard, created in Power BI, provides interactive visualizations that allow users to explore trends in seat allocation, cutoff ranks, branch preferences, and college details.  
+Predictive analytics have been applied to forecast future cutoff ranks based on historical data.
+
+---
+
+## Dataset
+The dataset used for this project contains:
+- College names and locations
+- Branch details and seat capacity
+- Category-wise cutoff ranks
+
+*Note:* The dataset is cleaned and processed for demonstration purposes.
+
+---
+
+## Tools and Technologies
+- Power BI – Dashboard creation and visualization
+- Excel – Data preprocessing
+- DAX – For measures and calculated fields
+
+
+---
+
+## How to Access the Dashboard
+1. Download the `.pbix` file from this repository.
+2. Install **Power BI Desktop** from the official Microsoft website.
+3. Open the `.pbix` file in Power BI Desktop.
+4. Use the filters to explore data by:
+   - College
+   - Branch
+   - Category
+  
+
+---
+
+## Key Insights Provided
+- College-wise and branch-wise seat allocation patterns
+- Popular branches and their demand changes
+- Forecasted cutoff ranks for upcoming counselling rounds
+
+---
+
+## Author
+**Sai Siddardha Kudupudi**  
+[LinkedIn](https://www.linkedin.com/in/sai-siddardha-kudupudi-663592244/)  
+Email: ksaisiddardhajob@gmail.com
