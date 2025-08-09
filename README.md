@@ -13,7 +13,6 @@ The dataset used for this project contains:
 - Branch details and seat capacity
 - Category-wise cutoff ranks
 
-*Note:* The dataset is cleaned and processed for demonstration purposes.
 
 ---
 
@@ -27,7 +26,7 @@ The dataset used for this project contains:
 
 ## How to Access the Dashboard
 1. Download the `.pbix` file from this repository.
-2. Install **Power BI Desktop** from the official Microsoft website.
+2. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).  
 3. Open the `.pbix` file in Power BI Desktop.
 4. Use the filters to explore data by:
    - College
